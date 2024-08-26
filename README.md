@@ -1,7 +1,6 @@
 # AI-Chatbot
 
-Chat With Your PDF_Bot
-Chat With Your PDF_Bot is a conversational AI chatbot designed to interact with users based on the content of PDF documents. Using the langchain library and OpenAI's GPT-3.5-turbo model, this application processes PDF files and answers questions about their content.
+Chat With Your chatbot is a conversational AI chatbot designed to interact with users based on the content of PDF documents. Using the langchain library and OpenAI's GPT-3.5-turbo model, this application processes PDF files and answers questions about their content.
 
 # Features
 PDF Upload: Easily upload PDF files to be processed.
